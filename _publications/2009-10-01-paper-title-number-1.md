@@ -2,7 +2,7 @@
 title: "Temporal Coherence for Active Learning in Videos"
 collection: publications
 permalink: /publication/2019-10-01-TC-method
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+![fig1]({{ site.url }}/images/TCmethod.jpg)
 date: 2019-10-01
 venue: 'ICCV Conference'
 citation: 'Javad Zolfaghari, Abel Gonzalez-Garcia, Gabriel Villalonga, Bogdan Raducanu, Hamed Habibi Aghdam, Mikhail Mozerov, Antonio M López, Joost van de Weijer. Temporal coherence for active learning in videos. In proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2019.
