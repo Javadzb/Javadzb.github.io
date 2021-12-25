@@ -3,8 +3,6 @@ title: "Temporal Coherence for Active Learning in Videos"
 collection: publications
 permalink: /publication/2019-10-01-TC-method
 
-Introducing a novel active learning system based on deep learning for object detection videos for the Autonomous Driving that significantly reduces the annotation effort.
-
 ![fig1]({{ site.url }}/images/TCmethod.jpg)
 date: 2019-10-01
 venue: 'ICCV Conference'
