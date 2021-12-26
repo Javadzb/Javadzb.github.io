@@ -1,5 +1,5 @@
 ---
-title: "Temporal Coherence for Active Learning in Videos"
+title: "Reducing Label Effort: Self-Supervised meets Active Learning"
 collection: publications
 permalink: /publication/2021-11-01-SelfSup_AL
 excerpt: ''
