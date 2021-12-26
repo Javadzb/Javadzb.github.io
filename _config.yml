@@ -85,7 +85,7 @@ author:
   bio              : "PhD in Computer Vision"
   location         : "Barcelona, Spain"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.es/citations?user=Bt7pGHEAAAAJ&hl=en"
   email            : "djavad.z@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
