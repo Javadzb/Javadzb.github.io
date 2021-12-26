@@ -1,0 +1,34 @@
+---
+title: "Temporal Coherence for Active Learning in Videos"
+collection: publications
+permalink: /publication/2021-11-01-SelfSup_AL
+excerpt: ''
+date: 2021-11-01
+venue: 'ICCV'
+paperurl: 'https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVRSUAD/Bengar_Temporal_Coherence_for_Active_Learning_in_Videos_ICCVW_2019_paper.pdf'
+citation: 'Javad Zolfaghari, Abel Gonzalez-Garcia, Gabriel Villalonga, Bogdan Raducanu, Hamed Habibi Aghdam, Mikhail Mozerov, Antonio M López, Joost van de Weijer. Temporal coherence for active learning in videos. In proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2019'
+---
+Introducing a novel active learning system based on deep learning for object detection videos for the Autonomous Driving that significantly reduces the annotation effort.
+
+[Download paper here](https://arxiv.org/pdf/1908.11757.pdf)
+
+![fig1]({{ site.url }}/images/TCmethod.jpg)
+
+Abstract:
+> Autonomous driving systems require huge amounts of data to train. Manual annotation of this data is time-consuming and prohibitively expensive since it involves human resources. Therefore, active learning emerged as an alternative to ease this effort and to make data annotation more manageable. 
+
+> In this paper, we introduce a novel active learning approach for object detection in videos by exploiting temporal coherence. Our active learning criterion is based on the estimated number of errors in terms of false positives and false negatives. The detections obtained by the object detector are used to define the nodes of a graph and tracked forward and backward to temporally link the nodes. Minimizing an energy function defined on this graphical model provides estimates of both false positives and false negatives. 
+
+> Additionally, we introduce a synthetic video dataset, called SYNTHIA-AL, specially designed to evaluate active learning for video object detection in road scenes. Finally, we show that our approach outperforms active learning baselines tested on two datasets.
+
+Bibtex:
+```
+@inproceedings{bengar2019temporal,
+  title={Temporal coherence for active learning in videos},
+  author={Bengar, Javad Zolfaghari and Gonzalez-Garcia, Abel and Villalonga, Gabriel and Raducanu, Bogdan and Aghdam, Hamed Habibi and Mozerov, Mikhail and Lopez, Antonio M and van de Weijer, Joost},
+  booktitle={2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW)},
+  pages={914--923},
+  year={2019},
+  organization={IEEE}
+}
+```
