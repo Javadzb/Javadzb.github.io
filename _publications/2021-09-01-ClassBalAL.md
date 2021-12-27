@@ -2,13 +2,12 @@
 title: "Class-Balanced Active Learning for Image Classification"
 collection: publications
 permalink: /publications/2021-09-01-ClassBalAL
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'We study the class imbalance in Active Learning and propose an optimization based method to reduce the class imbalance.'
 date: 2021-09-01
 venue: 'WACV'
 paperurl: ''
 citation: ''
 ---
-We study the class imbalance in Active Learning and propose an optimization based method to reduce the class imbalance.
 
 [Download paper here](https://arxiv.org/pdf/2110.04543.pdf)
 
