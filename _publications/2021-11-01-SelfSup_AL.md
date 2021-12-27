@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-11-01-SelfSup_AL
 excerpt: ''
 date: 2021-11-01
-venue: 'ICCV'
+venue: 'ICCV Workshops'
 paperurl: ''
 citation: ''
 ---
