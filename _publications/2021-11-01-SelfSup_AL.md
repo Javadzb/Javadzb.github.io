@@ -5,8 +5,8 @@ permalink: /publication/2021-11-01-SelfSup_AL
 excerpt: ''
 date: 2021-11-01
 venue: 'ICCV'
-paperurl: 'https://arxiv.org/pdf/2108.11458.pdf'
-citation: 'Javad Zolfaghari, Joost van de Weijer, Bartlomiej Twardowski, Bogdan Raducanu. Reducing Label Effort: Self-Supervised meets Active Learning. Proceeding of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2021.'
+paperurl: ''
+citation: ''
 ---
 Study of whether the active learning and self supervised learning can benefit from eachother. 
 
