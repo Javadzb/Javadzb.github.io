@@ -1,3 +1,8 @@
+---
+title: "Portfolio item number 2"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+collection: projects
+---
 Study of whether the active learning and self supervised learning can benefit from eachother. 
 
 [Download paper here](https://arxiv.org/pdf/2108.11458.pdf)
