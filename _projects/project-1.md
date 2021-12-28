@@ -1,5 +1,5 @@
 ---
-title: "Project item number 1"
+title: "AI for Recycling"
 excerpt: "Short description of project item number 1<br/><img src='/files/sadako_gif.gif'>"
 collection: projects
 ---
