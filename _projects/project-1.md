@@ -1,6 +1,6 @@
 ---
 title: "AI for Recycling"
-excerpt: "Short description of project item number 1<br/><img src='/files/sadako_gif.gif'>"
+excerpt: "Short description of project item number 1<br/><img src='/files/sadako_gif.gif' width=450px>"
 collection: projects
 ---
 
