@@ -1,7 +1,9 @@
 ---
 title: "AI for Autonomous Driving"
-excerpt: "Short description of project item number 1<br/><img src='/files/synthia.gif'  width=450px>"
+excerpt: "Introducing a novel active learning system based on deep learning for video object detection that significantly reduces the annotation effort.
+<br/>
+<br/><img src='/files/synthia.gif'  width=450px>"
 collection: projects
 ---
 
-This is an item in your project. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Introducing a novel active learning system based on deep learning for video object detection that significantly reduces the annotation effort.
