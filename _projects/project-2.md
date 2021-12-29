@@ -1,4 +1,5 @@
 ---
+<img src="files/AEV_logo.jpg">
 title: "AI for Autonomous Driving"
 excerpt: "Introducing a novel active learning system based on deep learning for video object detection that significantly reduces the annotation effort.
 <br/>
