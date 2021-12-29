@@ -1,6 +1,6 @@
 ---
 title: "AI for Autonomous Driving"
-excerpt: "Short description of project item number 1<br/><img src='/files/synthia.gif'>"
+excerpt: "Short description of project item number 1<br/><img src='/files/synthia.gif'  width=450px>"
 collection: projects
 ---
 
