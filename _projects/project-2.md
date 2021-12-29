@@ -6,4 +6,4 @@ excerpt: "<img src='/files/AEV_logo.jpg' width=500px><br/> Introducing a novel a
 collection: projects
 ---
 
-Introducing a novel active learning system based on deep learning for video object detection that significantly reduces the annotation effort.
+Introducing a novel active learning technique based on deep learning for object detection in videos that significantly reduces the annotation effort.
