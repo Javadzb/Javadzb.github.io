@@ -10,7 +10,7 @@ citation: ''
 ---
 Study of whether the active learning and self supervised learning can benefit from eachother. 
 
-[Download paper here](https://arxiv.org/pdf/2108.11458.pdf)
+[[Paper]](https://arxiv.org/pdf/2108.11458.pdf)
 
 ![fig1]({{ site.url }}/images/framework_ICCVW2021.jpg)
 
