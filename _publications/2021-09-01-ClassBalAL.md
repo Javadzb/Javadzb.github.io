@@ -9,7 +9,7 @@ paperurl: ''
 citation: ''
 ---
 We study the class imbalance in Active Learning and propose an optimization based method to reduce the class imbalance.
-[[Paper download link]](https://arxiv.org/pdf/2110.04543.pdf) [[Code]](https://github.com/Javadzb/Class-Balanced-AL) [[Video]](https://www.youtube.com/watch?v=qYt7SD8MaQ4)
+[[Paper]](https://arxiv.org/pdf/2110.04543.pdf) [[Code]](https://github.com/Javadzb/Class-Balanced-AL) [[Video]](https://www.youtube.com/watch?v=qYt7SD8MaQ4)
 
 ![fig1]({{ site.url }}/images/wacv_framework.jpg)
 
