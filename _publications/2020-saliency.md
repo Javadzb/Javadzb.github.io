@@ -8,7 +8,7 @@ venue: 'Journal of SN Computer Science'
 paperurl: ''
 citation: ''
 --- 
-[Download paper here](https://web.archive.org/web/20200711145108id_/https://link.springer.com/content/pdf/10.1007/s42979-020-00204-0.pdf)
+[[Paper]](https://web.archive.org/web/20200711145108id_/https://link.springer.com/content/pdf/10.1007/s42979-020-00204-0.pdf)
 
 ![fig1]({{ site.url }}/images/saliency.png)
 
