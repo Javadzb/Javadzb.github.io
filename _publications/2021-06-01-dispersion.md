@@ -9,7 +9,7 @@ paperurl: ''
 citation: ''
 ---
 To tackle the overconfidence of neural nets, we introduce dispersion metric that is based on learning dynamics of neural nets. 
-[Download paper](https://arxiv.org/pdf/2107.14707.pdf)[Video](https://www.youtube.com/watch?v=qYt7SD8MaQ4)
+[[Paper]](https://arxiv.org/pdf/2107.14707.pdf)[[Video]](https://www.youtube.com/watch?v=qYt7SD8MaQ4)
 
 ![fig1]({{ site.url }}/images/caip_motivation_figure.jpg)
 
